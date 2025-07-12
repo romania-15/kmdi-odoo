@@ -1,0 +1,19 @@
+.product-detail {
+  padding: 20px;
+}
+.image-gallery img {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
+.description-box {
+  margin-top: 20px;
+}
+.status-button {
+  margin-top: 10px;
+}
+.previous-listings {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
